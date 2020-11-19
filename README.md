@@ -1,2 +1,3 @@
 # cfg-parser
-Parses config files
+Do not use lol
+Gonna fix it later
